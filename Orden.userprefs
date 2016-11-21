@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\UserControllerScr.cs">
+    <Files>
+      <File FileName="Assets\Scripts\SpriteScr.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ScriptableObjectUtility.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\YourClassAsset.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\NewComputeShader.compute" Line="1" Column="1" />
+      <File FileName="Temp\Compiled-NewComputeShader-.shader" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LiftScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UserControllerScr.cs" Line="125" Column="110" />
+      <File FileName="Assets\Scripts\SwitchScr.cs" Line="8" Column="2" />
+      <File FileName="Assets\Scripts\BarrelScr.cs" Line="41" Column="7" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
